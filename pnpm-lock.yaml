@@ -36,7 +36,7 @@ importers:
         specifier: ^12.4.3
         version: 12.4.3(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       next:
-        specifier: 16.1.6
+        specifier: '16'
         version: 16.1.6(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react:
         specifier: ^19.0.0
